@@ -11,4 +11,8 @@ Consider the point M1 belonging to the parabola of equation y = x^2 and the poin
 
 # Problem 2
 Consider the function J(x).  We wish to implement the method of the gradient with optimal learning rate alpha to determine the minimum of this function.
+![prb1](pb2.png)
+
+# How to use? 
+Open just the notebook :) and enjoy !
 
